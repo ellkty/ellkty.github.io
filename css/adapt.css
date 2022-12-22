@@ -144,7 +144,7 @@
     .price__content-description{
         font-size: 14px
     }
-    .info__line{
+    .content-line{
         margin-top: 15px;
         margin-bottom: 13px;
         width: 250px;
@@ -406,7 +406,7 @@
         flex-direction: column;
         max-width: 280px;
     }
-    .price__content-line{
+    .content-line{
         min-width: 280px;
         height: 1px;
     }
