@@ -7,6 +7,9 @@
     .goal__slider{
         max-width: 960px;
     }
+    .header__bg{
+        background-attachment: scroll;
+    }
     .header__content-title{
         font-size: 120px;
         max-width: 600px;
